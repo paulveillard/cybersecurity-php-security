@@ -4,12 +4,12 @@
 # PHP Security
 
 ###### Welcome to the World of PHP:
-> An ongoing collection of php language tools and frameworks, software, libraries, learning tutorials, frameworks, academic and practical resources.
+An ongoing collection of php language tools and frameworks, software, libraries, learning tutorials, frameworks, academic and practical resources.
 Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ![php](https://github.com/paulveillard/cybersecurity-php-security/blob/main/img/php.png)
 
-## Table of Contents
+## `Table of Contents`
 
 - [Tools](#projects)
   - [Web Framework Hardening](#web-framework-hardening)
