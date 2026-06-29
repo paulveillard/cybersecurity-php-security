@@ -46,6 +46,7 @@ An ongoing collection of php language tools and frameworks, software, libraries,
 - [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 
 # Educational
 
